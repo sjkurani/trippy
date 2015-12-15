@@ -1,0 +1,89 @@
+html
+{
+background:url(/home/shridhar/Public/trippyback/quest/Newimage/header.jpg);
+}
+h1
+{
+left:200px;
+font-size:100px;
+font-family:'verdana';
+color:#CC0000;
+}
+form 
+{
+
+}
+
+.firstmenu ul
+{
+left:-10px;
+}
+.firstmenu li
+{
+display:none;
+padding:5px;
+font-size:17px;
+list-style-type:none;
+background-color:white;
+
+}
+.firstmenu
+{
+background-color:green;
+color:red;
+left:-10px;
+height:60px;
+}
+#scrolldown
+{
+position:relative;
+background:url('./Newimage/arrow-down.png') no-repeat;
+height:200px;
+width:5%;}
+.hero
+{
+position:relative;
+font:italic bold 30px Georgia,serif;
+left:350px;
+top:20px;
+width:900px;
+}
+.footer
+{position:relative;
+margin:5px;
+width:99%;
+background-color:rgb(48, 48, 48);
+}
+
+.footer a
+{
+
+text-decoration:none;
+display:inline-block;
+width:390px;
+position:relative;
+margin:4px;
+color:rgba(239, 246, 248, 1);
+}
+
+.footer .saying:hover
+{
+background-color:rgba(72, 111, 128, 0.75);
+}
+.saying li
+{
+list-style-type:none;
+}
+.saying ul
+{
+text-decoration:underline;
+margin: 5px 0; 
+font-size:25px;
+color:red;
+}
+.saying li a
+{
+color:rgba(14, 170, 238, 1);
+text-decoration:none;
+}
+

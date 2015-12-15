@@ -1,0 +1,53 @@
+#scrolldown
+{
+position:relative;
+background:url('../img/arrow-down.png') no-repeat;
+height:200px;
+width:5%;}
+.hero
+{
+position:relative;
+font-family: 'Yeseva One', cursive;
+font-size:20px;
+top:20px;
+color:black;
+}
+.footer
+{position:relative;
+margin:5px;
+width:99%;
+background-color:rgb(48, 48, 48);
+}
+
+.footer a
+{
+
+text-decoration:none;
+display:inline-block;
+width:390px;
+position:relative;
+margin:4px;
+color:rgba(239, 246, 248, 1);
+}
+
+.footer .saying:hover
+{
+background-color:rgba(72, 111, 128, 0.75);
+}
+.saying li
+{
+list-style-type:none;
+}
+.saying ul
+{
+text-decoration:underline;
+margin: 5px 0; 
+font-size:25px;
+color:red;
+}
+.saying li a
+{
+color:rgba(14, 170, 238, 1);
+text-decoration:none;
+}
+

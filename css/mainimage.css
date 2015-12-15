@@ -1,0 +1,43 @@
+#img6
+{
+top:400px;
+width:604px;
+height:350px;
+left:1400px;
+}
+
+#img12
+{
+top:400px;
+width:604px;
+height:350px;
+left:-1400px;
+}
+#img15
+{
+top:950px;
+width:400px;
+height:350px;
+left:2890px;
+} 
+
+#img16
+{top: 750px;
+width: 400px;
+height: 350px;
+left: 260px;
+}
+
+#img17
+{
+top:900px;
+width:400px;
+height:350px;
+left:-600px;
+}
+
+.mainimg
+{
+position:absolute;
+border-radius: 999px;
+}

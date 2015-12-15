@@ -1,0 +1,81 @@
+html
+{
+background:url("./Newimage/header.jpg");
+}
+form
+{
+height:800px;
+width:1290px;
+margin:5px;
+background-color:transparent;
+}
+.maincontent
+{
+display:none;
+}
+.mainheadandimg #business1
+{
+position:relative;
+}
+.mainheadandimg
+{
+background-color:rgba(15, 12, 12, 0.94);;
+height:150px;
+text-align:center;
+text-align: center;
+color: rgba(185, 178, 6, 0.8);
+font-size: 20px;
+position:relative;
+}
+h1
+{
+}
+label
+{
+color:red;
+font: italic bold 25px/30px Georgia,serif;
+text-align:center;
+}
+.mainheadandimg:hover 
+{
+height:200px;;
+background-color:rgba(95, 107, 48, 0.94);
+}
+p , .plist ,.go
+{
+max-width:600px;
+color:white;
+font-family:monospace;
+font-size:16px;
+display:inline-block;
+border-left:thick solid rgb(18, 224, 134);
+text-align:left;
+}
+.uparrow,.downarrow
+{
+width:100px;
+height:80px;
+border-radius:32px;
+cursor:pointer;
+}
+.uparrow:hover,.downarrow:hover
+{
+cursor:pointer;background-color:rgba(65, 118, 134, 0.59)
+}
+.maincontent 
+{
+background-color:rgba(84, 87, 12, 0.69);
+}
+	.go
+{
+position:relative;
+border-left:none;
+max-width:600px;
+font-size:25px;
+text-align:left;
+background-color:rgba(209, 37, 37, 0.54);
+}
+.text1
+{
+color:black;
+}
